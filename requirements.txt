@@ -28,4 +28,4 @@ SQLAlchemy
 validators==0.28.1
 huggingface_hub
 yt_dlp
-youtube-transcript-api
+
